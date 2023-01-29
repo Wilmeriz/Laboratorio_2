@@ -1,0 +1,3 @@
+export INFLUX_TOKEN=BC3XdiFyNk-VzHHcACy3Uy8uoJYHLc33Ktgbthwiopl39G0fyONtu95KiFHhveQJXf3yz0szxJUm4CnD2LxJyg==
+
+telegraf --config http://44.212.69.43:8086/api/v2/telegrafs/0aaba2d6d1fad000
